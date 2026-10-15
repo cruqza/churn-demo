@@ -1,4 +1,4 @@
-# Telco churn — live demo
+# Telco churn — interactive demo
 
 Interactive demo of the churn model from
 [Teleco_churn-project](https://github.com/cruqza/Teleco_churn-project): pick a
@@ -7,7 +7,6 @@ the exported scikit-learn pipeline (Logistic Regression — test accuracy 0.80,
 churn recall 0.57). No retraining happens here; this repo ships the same
 artifacts the FastAPI service serves.
 
-- **Live demo:** deployed on HF Spaces (link added at deploy time)
 - **Model & analysis:** [Teleco_churn-project](https://github.com/cruqza/Teleco_churn-project)
 
 ## Run it locally
